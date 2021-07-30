@@ -1,4 +1,4 @@
-# Creating a CSV file for the importing bibliographic data into ALMA
+# Creating a CSV file for importing the bibliographic data into ALMA
 With this Code you can create a csv file which contains many bibliographical data. 
 The bibliographical information is created from the CiNii Books. Thus the user of this code needs a CiNii API token and must 
 follow the Academic Content Service Usage Regulations and CiNii Articles Usage Detailed Regulations by NII.
