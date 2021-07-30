@@ -23,6 +23,6 @@ and CiNii API Access Token https://support.nii.ac.jp/ja/cinii/api/developer
 1. Run the Code with an argument (csv file name) like:  
 `python createBibdata.py test.csv`
 
-## Result
-You find the result csv file under [res_test.csv](https://github.com/NbtKmy/batsch_bibdata_for_alma/blob/main/res_test.csv).
+## Sample result 
+You find a sample result csv file under [res_test.csv](https://github.com/NbtKmy/batsch_bibdata_for_alma/blob/main/res_test.csv).
 
