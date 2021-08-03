@@ -17,7 +17,7 @@ and CiNii API Access Token https://support.nii.ac.jp/ja/cinii/api/developer
 
 ## Usage
 
-At first you need a CSV file you created for the book oder. This CSV file must incluse a column named "ISBN". And each elemant of this column should have one ISBN.
+At first you need a simple CSV file created for the book oder. The CSV file must incluse a column named "ISBN". And each element of this column should have one ISBN.
 This code gets the bibliographical information from the CiNii Books API with these ISBNs.  
 
 1. Put your CiNii API Access Token in your environment variable:  
